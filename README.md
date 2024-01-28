@@ -1,2 +1,2 @@
 # Regex-Numpy-Matplotlib
-The basics of the three famous libraries of Python
+The basics of the three famous libraries of Python; numpy, regex and matplotlib. In this file I created a fictional data, transformed the arrays to matrices using numpy and then used several different functions of the library to find the answers to the given question.Then I used the matplotlib library to visualize the same data by plotting different types of graphs.At the end, I created some slightly different regular expressions to figure out the required match from the text.This file was created as my portfolio project and was for the practice purpose only.
